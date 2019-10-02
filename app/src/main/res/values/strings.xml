@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cityGuide</string>
+    <string name="pier">Navy Pier Image</string>
+    <string name="water">Water Tower Image</string>
+    <string name="Sears">Sears Tower Image</string>
+    <string name="art">Art Institute Image</string>
+</resources>
